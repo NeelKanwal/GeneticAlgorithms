@@ -7,11 +7,11 @@ https://medium.com/@neelka/genetic-algorithms-for-optimization-77cffeba37ea
 
 Dependencies:
 ## For Matlab
-Global Optimization Toolbox
+-Global Optimization Toolbox
 
 ## For Python
-Numpy
-Matplot
+-Numpy
+-Matplot
 
 Evolution Graph
 
